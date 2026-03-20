@@ -23,19 +23,19 @@ Actuellement en stage chez Renault Groupe - AMPERE S.A.A (Sécurité Passive).
 | [Reconnaissance Caractères Ourdou](https://github.com/JeromeVitoff/IST-Deep-Learning-Workshop) | Classification CNN de caractères manuscrits sur 40 classes | **99,1% de précision** |
 | [ETL Pipeline Distribué](https://github.com/alvin257/etl_project) | Pipeline ETL scalable avec Dask sur données NYC Taxi, interface Streamlit configurable via YAML | Traitement out-of-core multi-workers |
 | [Prédiction Défaut de Crédit](https://github.com/JeromeVitoff/Loan-Default-Prediction) | Modèle prédictif de risque de crédit | XGBoost, Random Forest |
-| [Tableau de Bord Aurores Boréales](https://github.com/JeromeVitoff/Open_Data-Web_donnees) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
 
 ## Autres projets
 
 | Projet | Description |
 |---|---|
-| [Tableau de Bord Aurores Boréales](https://web-production-ff2d6.up.railway.app/) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
+| [Tableau de Bord Aurores Boréales](https://github.com/JeromeVitoff/Open_Data-Web_donnees) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
 | [Analyse Textuelle Artist-Run Spaces](https://github.com/vitamineeo/Projet-TER-artiste-run-spaces) | Exploration de corpus textuels avec NLP (SpaCy, BERTopic, Gensim), classification et extraction de thématiques |
 | [Demi-Journée Data Science](https://github.com/JeromeVitoff/Demie-journ-e-Data-Science) | Projet collaboratif couvrant l'ensemble du workflow data science : analyse exploratoire, modélisation et visualisation |
 | [Analyse de la Pollution Aérienne](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Analyse de données de qualité de l'air — modélisation prédictive et visualisation |
 | [Apprentissage Supervisé](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Étude comparative d'algorithmes de classification et régression |
 | [Apprentissage Non Supervisé](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Clustering et réduction de dimension (K-Means, ACP, t-SNE) |
 | [Analyse de la Sûreté des Villes](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Analyse statistique d'indicateurs de sécurité urbaine |
+| [Dashboard Activité Quotidienne](https://github.com/JeromeVitoff/Dashbord-Activite-Quotidient-) | Tableau de bord personnel de suivi et visualisation de l'organisation du temps (PHP, JSON) |
 
 ## Expériences
 
