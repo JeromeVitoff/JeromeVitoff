@@ -23,6 +23,7 @@ Actuellement en stage chez Renault Groupe - AMPERE S.A.A (Sécurité Passive).
 | [Reconnaissance Caractères Ourdou](https://github.com/JeromeVitoff/IST-Deep-Learning-Workshop) | Classification CNN de caractères manuscrits sur 40 classes | **99,1% de précision** |
 | [ETL Pipeline Distribué](https://github.com/alvin257/etl_project) | Pipeline ETL scalable avec Dask sur données NYC Taxi, interface Streamlit configurable via YAML | Traitement out-of-core multi-workers |
 | [Prédiction Défaut de Crédit](https://github.com/JeromeVitoff/Loan-Default-Prediction) | Modèle prédictif de risque de crédit | XGBoost, Random Forest |
+| [Tableau de Bord Aurores Boréales](https://github.com/JeromeVitoff/Open_Data-Web_donnees) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
 
 ## Autres projets
 
