@@ -28,6 +28,7 @@ Actuellement en stage chez Renault Groupe - AMPERE S.A.A (Sécurité Passive).
 
 | Projet | Description |
 |---|---|
+| [Tableau de Bord Aurores Boréales](https://web-production-ff2d6.up.railway.app/) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
 | [Analyse Textuelle Artist-Run Spaces](https://github.com/vitamineeo/Projet-TER-artiste-run-spaces) | Exploration de corpus textuels avec NLP (SpaCy, BERTopic, Gensim), classification et extraction de thématiques |
 | [Demi-Journée Data Science](https://github.com/JeromeVitoff/Demie-journ-e-Data-Science) | Projet collaboratif couvrant l'ensemble du workflow data science : analyse exploratoire, modélisation et visualisation |
 | [Analyse de la Pollution Aérienne](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Analyse de données de qualité de l'air — modélisation prédictive et visualisation |
