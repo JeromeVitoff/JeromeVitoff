@@ -3,7 +3,7 @@
 Data Scientist | Master 2 Data Science (MIASHS) — Université de Montpellier Paul Valéry
 
 Actuellement en stage chez Renault Groupe - AMPERE S.A.A (Sécurité Passive).
-À la recherche d'un poste en CDI — Data Scientist, Data Analyst ou Data Engineer.
+À la recherche d'un poste en CDI — Data Scientist, Data Analyst, Data Engineer ou Ingénieur IA.
 
 ## Compétences principales
 
