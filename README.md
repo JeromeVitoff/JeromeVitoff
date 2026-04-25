@@ -20,16 +20,17 @@ Actuellement en stage chez Renault Groupe - AMPERE S.A.A (Sécurité Passive).
 | Projet | Description | Résultats |
 |---|---|---|
 | [Nexar Dashcam Crash Prediction](https://github.com/JeromeVitoff/Nexar-Dashcam-Crash-Prediction-Challenge) | Comparaison de 6 architectures Deep Learning pour la prédiction de collisions sur 1 500 vidéos dashcam | I3D : **77,53% AP** (71,2% Kaggle) |
+| [OpenDataCopilot](https://github.com/JeromeVitoff/Open_Data_Copilot) | Chatbot RAG multi-domaines sur 1 222 802 documents (Santé publique + Pollution). Comparaison de 4 architectures RAG, 3 LLMs et 4 embeddings | Qualité **0.757** · **0% hallucination** · Mistral 7B ×500 moins cher que GPT-3.5 |
 | [Reconnaissance Caractères Ourdou](https://github.com/JeromeVitoff/IST-Deep-Learning-Workshop) | Classification CNN de caractères manuscrits sur 40 classes | **99,1% de précision** |
 | [ETL Pipeline Distribué](https://github.com/alvin257/etl_project) | Pipeline ETL scalable avec Dask sur données NYC Taxi, interface Streamlit configurable via YAML | Traitement out-of-core multi-workers |
-| [Prédiction Défaut de Crédit](https://github.com/JeromeVitoff/Loan-Default-Prediction) | Modèle prédictif de risque de crédit | XGBoost, Random Forest |
+| [Prédiction Défaut de Crédit](https://github.com/JeromeVitoff/Loan-Default-Prediction) | Comparaison de 5 modèles ML sur 7 500 emprunteurs | Random Forest : **77,93% accuracy** · F1-score macro : 64,62% |
+| [Analyse Textuelle Artist-Run Spaces](https://github.com/vitamineeo/Projet-TER-artiste-run-spaces) | Pipeline NLP complet : BERTopic, UMAP, HDBSCAN, Sentence Transformers, OpenAI API, NetworkX. Front-end React/TypeScript | NLP avancé · Graphes · Embeddings |
 
 ## Autres projets
 
 | Projet | Description |
 |---|---|
 | [Tableau de Bord Aurores Boréales](https://github.com/JeromeVitoff/Open_Data-Web_donnees) | Dashboard temps réel combinant 4 APIs (NOAA, Open-Meteo, OpenWeatherMap) pour prédire la probabilité d'observation des aurores. Déployé sur Railway. |
-| [Analyse Textuelle Artist-Run Spaces](https://github.com/vitamineeo/Projet-TER-artiste-run-spaces) | Exploration de corpus textuels avec NLP (SpaCy, BERTopic, Gensim), classification et extraction de thématiques |
 | [Demi-Journée Data Science](https://github.com/JeromeVitoff/Demie-journ-e-Data-Science) | Projet collaboratif couvrant l'ensemble du workflow data science : analyse exploratoire, modélisation et visualisation |
 | [Analyse de la Pollution Aérienne](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Analyse de données de qualité de l'air — modélisation prédictive et visualisation |
 | [Apprentissage Supervisé](https://github.com/JeromeVitoff/ProjetUniversitaire-) | Étude comparative d'algorithmes de classification et régression |
